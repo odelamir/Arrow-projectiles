@@ -27,8 +27,8 @@ Part of the project simulation👇
 
  ![simulation](simulation.gif)
 https://youtu.be/G6wFsjV6aeM
-###  Project Summary
+##  Project Summary
 This project is a physical and mathematical project, designed to solve threats directed at the soldier. It quickly provides accurate intercept points, making it ideal for Warriors on the battlefield.
 
-### License
+## License
 This code is proprietary and confidential. You are granted permission to view this code but not to copy, use, distribute, or modify it without explicit permission from the owner.
