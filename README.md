@@ -17,13 +17,13 @@ This program receives real-time projectile threats from AMMS sensors and calcula
 These calculations quickly produce an accurate interception point for threats to the soldier. The program intercepts if the trajectory poses or will pose a danger to the moving soldier until the threat is neutralized. It handles edge cases and only intercepts hostile fire towards the soldier, even considering friendly fire scenarios to intercept if necessary.
 
 Some of the formulas of physical forces
- ![simulation](../python/pyth.png)
+ ![simulation](../python/Physics.png)
 
 
 This project is engineered to rapidly compute threat trajectories using C, based on real-time data input from AMMS sensors surrounding the soldier's environment. The system visualizes these threats in a 3D simulation, and when necessary, initiates interception to neutralize the danger.
 Part of the project simulation👇
 
- ![simulation](חשוב.gif)
+ ![simulation](simulation.gif)
 https://youtu.be/G6wFsjV6aeM
 ###  Project Summary
 This project is a physical and mathematical project, designed to solve threats directed at the soldier. It quickly provides accurate intercept points, making it ideal for Warriors on the battlefield.
