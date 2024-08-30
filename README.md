@@ -22,6 +22,7 @@ Some of the formulas of physical forces
 
 
 This project is engineered to rapidly compute threat trajectories using C, based on real-time data input from AMMS sensors surrounding the soldier's environment. The system visualizes these threats in a 3D simulation, and when necessary, initiates interception to neutralize the danger.
+
 Part of the project simulation👇
 
  ![simulation](simulation.gif)
@@ -29,5 +30,5 @@ https://youtu.be/G6wFsjV6aeM
 ###  Project Summary
 This project is a physical and mathematical project, designed to solve threats directed at the soldier. It quickly provides accurate intercept points, making it ideal for Warriors on the battlefield.
 
-#### License
+### License
 This code is proprietary and confidential. You are granted permission to view this code but not to copy, use, distribute, or modify it without explicit permission from the owner.
