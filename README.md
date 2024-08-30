@@ -17,6 +17,7 @@ This program receives real-time projectile threats from AMMS sensors and calcula
 These calculations quickly produce an accurate interception point for threats to the soldier. The program intercepts if the trajectory poses or will pose a danger to the moving soldier until the threat is neutralized. It handles edge cases and only intercepts hostile fire towards the soldier, even considering friendly fire scenarios to intercept if necessary.
 
 Some of the formulas of physical forces
+
  ![simulation](Physics.png)
 
 
