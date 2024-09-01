@@ -28,7 +28,8 @@ This project is engineered to rapidly compute threat trajectories using C, based
 Part of the project simulation👇
 
  ![simulation](simulation.gif)
-https://youtu.be/G6wFsjV6aeM
+  [To view the project on YouTube](https://youtu.be/G6wFsjV6aeM)
+
 ##  Project Summary
 This project is a physical and mathematical project, designed to solve threats directed at the soldier. It quickly provides accurate intercept points, making it ideal for Warriors on the battlefield.
 
