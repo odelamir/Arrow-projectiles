@@ -2,7 +2,9 @@
 
 A powerful tool for warriors who are frequently at risk on the battlefield from enemy threats.
 ##### for the full project process 👇👇
-https://drive.google.com/file/d/1q0O257fhMMjlEKydk6M4gX1ZXdwJTvoX/view?usp=sharing
+
+##### [Project book](https://drive.google.com/file/d/1q0O257fhMMjlEKydk6M4gX1ZXdwJTvoX/view?usp=sharing)
+
 
 ## Technological Protection for Combat Fighters
 Technological Protection for Combat Fighters is an innovative project aimed at safeguarding soldiers on the battlefield. This technology enables fighters to engage in combat while remaining protected from shooting threats and grenade attacks, allowing them to fight effectively without the need to hide or retreat.
